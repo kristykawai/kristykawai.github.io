@@ -4,28 +4,25 @@
 
 ### Case of Eucalyptus camaldulensis in Riverland Ramsar wetland, South Australia
 
+#### Study Location
+
+![Riverred_gum_studysite](./assets/Riverred_studysite.jpg)
+
 #### Data and Methods 
 
 Data pre-processing, analyses and visualization were performed using Python3.7 and ArcGIS 10.5.1. Three types of data are used including optical satellite observed indices, predicted environmental data, and ground-based observations.
 
 Satellite imagery and indices 
 
-Three individual dates of Geoscience Australia (2016)’s Landsat 8 imagery Surface reflectance Nadir Bidirectional reflectance distribution function Adjusted Reflectance and  the terrain illumination reflectance correction (NBART) (10 Sep 2015, 28 Sep 2016 and 15 Sep 2017) were used in this research (Geoscience Australia, 2017a). Due to the impact of cloud cover and fixed return interval of the Landsat 8 sensor, the closest possible dates before and after the 2016 natural flooding event with cloud-free imageries are chosen (Ozesmi & Bauer, 2002). Surface reflectance NBAR+T 25 v. 2, a suite of  Geoscience Australia (2016)’s Earth Observation product that provides standardised optical surface reflectance datasets with corrected atmospheric, topographic and Bidirectional Reflectance Distribution Function (BRDF) effects (Lewis et al., 2017). As Surface reflectance NBAR+T 25 v. 2 was launched in 2016, Surface Reflectance NBAR+ was used for Landsat data correction between 1987 and 2015 (Geoscience Australia, 2017b). NDVI and NDII were derived from the Geoscience Australia (2016)’s NBART products. SWIR-1 was used for the NDII calculation. 
+Three individual dates of Geoscience Australia (2016)’s Landsat 8 imagery Surface reflectance Nadir Bidirectional reflectance distribution function Adjusted Reflectance and  the terrain illumination reflectance correction (NBART) (10 Sep 2015, 28 Sep 2016 and 15 Sep 2017) were used in this research (Geoscience Australia, 2017a).  NDVI and NDII were derived from the Geoscience Australia (2016)’s NBART products. SWIR-1 was used for the NDII calculation. 
 
 Predicted environmental meta-data
 
-Soil moisture and bare soil fraction data were acquired from the Australia’s Environmental Explorer. Soil moisture refers to “average amount of water stored in the soil profile during the year as estimated by the OzWALD model-data fusion system” (Australia's Environment Explorer, 2018). Bare soil fraction refers to “annual mean percentage of soil that is unprotected by living vegetation or litter as mapped from MODIS satellite imager following the methodology of  Guerschman and colleagues (CSIRO)” (Australia's Environment Explorer, 2018). 
+Soil moisture and bare soil fraction data were acquired from the Australia’s Environmental Explorer. 
 
 Field-based tree occurrence records 
 
-148 individual River red gum tree records with latitude and longitude coordinates reported between 1983 and 2016 retrieved from (The Altas of Living Australia, n.d.) were used for extracting the value of indices. Nearest-neighbour interpolation was used to extract value. These field records were represented by 15,812 pixels in each year of the analysis.
-
-Method 
-Descriptive, correlation analysis and regression analysis were conducted to examine the relationship between NDVI, NDII, soil moisture and bare soil fraction. Response variable was NDVI. NDII, soil moisture and bare soil fraction were independent variables. Image classification based on threshold values of NDVI and NDII of study site was performed. 
-
-#### Study Location
-
-![Riverred_gum_studysite](./assets/Riverred_studysite.jpg)
+148 individual River red gum tree records with latitude and longitude coordinates reported between 1983 and 2016 retrieved from The Altas of Living Australia were used for extracting the value of indices. Nearest-neighbour interpolation was used to extract value. 
 
 #### Result
 
@@ -154,9 +151,9 @@ response rate was 80 % (198 questionnaires).
   There are two sets of questionnaires, one is for parents (Part A) and one is for nonparents
   (Part B). Part A contains 7 sections with 52 questions and Part B are composed of 50 questions. All questions are written in Traditional Chinese. Translations work for borrowing scales and questions from foreign researches were first completed by a researcher and passed to a group of five researchers for further modifications.
 
-#### Data Processing and Data Analysis
+#### Data Processing and Analysis
 
-After screening out suspect questionnaires with straight line answers, 172 questionnaires were counted as valid and used for data analysis. Valid questionnaires were firstly coded by a researcher, then double checked by another research. The data entry process was completed by a third research with SPSS 22.0. All variables had less than two missing values before replacing missing value with series means. Three level of analysis were made. Descriptive analysis was used for all variables. For categorical data, independent T-test was used for comparing the mean difference of independent variable with two groups, and ANOVA was used for variables with three or above groups. For continuous variables, bivariate analysis was used for comparing the correlation between two variables. Independent variables which found significant correlations with dependent variables were selected to do regression analysis. Categorical variables were recoded as dummy variables and entered the regression model (Table 1-3). All predictors in regression models passed the Collinearity test (Variance inflation factor <10) (Tables 8-1, 8-2 & 8-3). As there were three outcome variables of fertility intention, separate analysis was employed. There were three sets of regression model completed.
+After screening out suspect questionnaires with straight line answers, 172 questionnaires were counted as valid and used for data analysis. Valid questionnaires were firstly coded by a researcher, then double checked by another research. The data entry process was completed by a third research with SPSS 22.0. All predictors in regression models passed the Collinearity test (Variance inflation factor <10). As there were three outcome variables of fertility intention, separate analysis was employed. There were three sets of regression model completed.
 
 #### **Result**
 
