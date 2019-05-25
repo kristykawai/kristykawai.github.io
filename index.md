@@ -29,7 +29,7 @@ Descriptive, correlation analysis and regression analysis were conducted to exam
 
 #### Result
 
-**Figure 1 ** NDVI, NDII, Soil Moisture (mm) and Bare Soil Fraction (%) values (2015-2017)
+**Figure 1** NDVI, NDII, Soil Moisture (mm) and Bare Soil Fraction (%) values (2015-2017)
 
 ![Riverred_NDVI](./assets/Riverred_NDVI.png)
 
@@ -39,7 +39,7 @@ Descriptive, correlation analysis and regression analysis were conducted to exam
 
 ![Riverred_Baresoil](./assets/Riverred_Baresoil.png)
 
-**Figure 2 ** Pearson’s correlation analysis
+**Figure 2** Pearson’s correlation analysis
 
 | NDVI and NDII                                                | NDVI and soil moisture                                       | NDVI and bare soil fraction                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -93,7 +93,7 @@ _It is an independent research project (coursework) supervised by Prof. Albert V
 
 ![Landuse_final](./assets/Landuse_final.png)
 
-
+_It is a coursework assignment conducted in GIS and Spatial Analysis (ENVS6015) in 2017._
 
 ## 3. Quantitative research (STATA)
 
