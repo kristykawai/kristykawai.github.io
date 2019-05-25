@@ -157,4 +157,4 @@ After screening out suspect questionnaires with straight line answers, 172 quest
 
 ![SPSS_regress](./assets/SPSS_regress.jpg)
 
-_It is a honour research project supervised by Dr. Bai Xue at the Hong Kong Polytechnic University in 2015._
+_It is an honour research project supervised by Dr. Bai Xue at the Hong Kong Polytechnic University in 2015._
