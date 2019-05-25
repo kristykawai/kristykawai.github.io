@@ -26,7 +26,7 @@ Field-based tree occurrence records
 
 #### Result
 
-**Figure 1** NDVI, NDII, Soil Moisture (mm) and Bare Soil Fraction (%) values (2015-2017)
+**Figure 1** NDVI, NDII, Soil Moisture and Bare Soil Fraction values (2015-2017)
 
 ![Riverred_NDVI](./assets/Riverred_NDVI.png)
 
@@ -73,8 +73,6 @@ _It is an independent research project (coursework) supervised by Prof. Albert V
 ## 2. Land use suitability assessment (ArcGIS)
 
 ### A Small Cluster Residential Development Proposal in Kowen
-
-#### **Supervised Land use Classification**
 
 ![Landuse_studysite](./assets/Landuse_studysite.png)
 
