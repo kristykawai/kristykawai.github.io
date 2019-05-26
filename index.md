@@ -2,7 +2,7 @@
 
 ## 1. Remote Sensing analysis (Python)
 
-### Case of Eucalyptus camaldulensis in Riverland Ramsar wetland, South Australia
+### Case of Eucalyptus camaldulensis in Riverland Ramsar Wetland, South Australia
 
 #### Study Location
 
