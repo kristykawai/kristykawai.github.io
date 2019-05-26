@@ -44,7 +44,7 @@ Field-based tree occurrence records
 
 **Table 1** Ordinary Least Squares (OLS) Regression result
 
-
+![Riverred_regress](./assets/Riverred_regress.png)
 
 #### Python libraries 
 
