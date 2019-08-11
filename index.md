@@ -156,7 +156,7 @@ esttab, p scalars(F df_m df_r) r2 ar2
 
 _It is a research project (coursework) tutored by Crawford School PhD scholar Chi-hoong Leong in Research Methods for Environmental Management (EMDV8102) in 2017._
 
-## 4. Quantitative research (SPSS)
+## 5. Quantitative research (SPSS)
 
 ### Perceived Housing Correlates of Fertility Intention among Hong Kong people aged between 18 and 35
 #### **Theoretical Framework**
