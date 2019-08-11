@@ -8,24 +8,24 @@ The map shows the percentage of  households where a non English language is spok
 
 #### NSW
 
-![Non_ENG_NSW](F:\Wai\kristykawai.github.io\assets\Non_ENG_NSW.png)
+![Non_ENG_NSW](./assets/Non_ENG_NSW.png)
 
 #### VIC
 
-![Non_ENG_VIC](F:\Wai\kristykawai.github.io\assets\Non_ENG_VIC.png)
+![Non_ENG_VIC](./assets/Non_ENG_VIC.png)
 
 #### SA
 
-![Non_ENG_SA](F:\Wai\kristykawai.github.io\assets\Non_ENG_SA.png)
+![Non_ENG_SA](./assets/Non_ENG_SA.png)
 
 #### WA
 
-![Non_ENG_WA](F:\Wai\kristykawai.github.io\assets\Non_ENG_WA.png)
+![Non_ENG_WA](./assets/Non_ENG_WA.png)
 
 #### Reference
 
-Australian Bureau of Statistics 2016, _2016 Census QuickStats_, viewed 5 August 2019,<<https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/CED137?opendocument#cultural>>.
-Australian Electoral Comission 2019, _Federal electoral boundaries_, viewed 5 August 2019,<<https://www.aec.gov.au/Electorates/gis/index.htm>>.
+Australian Bureau of Statistics 2016, _2016 Census QuickStats_, viewed 5 August 2019, <https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/CED137?opendocument#cultural>.
+Australian Electoral Commission 2019, _Federal electoral boundaries_, viewed 5 August 2019, <https://www.aec.gov.au/Electorates/gis/index.htm>.
 
 _It is a voluntary work for Democracy in Colour._
 
