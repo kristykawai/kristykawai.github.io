@@ -1,6 +1,35 @@
 # Data Analysis Portfolio 
 
-## 1. Remote Sensing analysis (Python)
+## 1. Census data mapping (QGIS)
+
+### Most multicultural federal electorates in Australia   
+
+The map shows the percentage of  households where a non English language is spoken in Australia.
+
+#### NSW
+
+![Non_ENG_NSW](F:\Wai\kristykawai.github.io\assets\Non_ENG_NSW.png)
+
+#### VIC
+
+![Non_ENG_VIC](F:\Wai\kristykawai.github.io\assets\Non_ENG_VIC.png)
+
+#### SA
+
+![Non_ENG_SA](F:\Wai\kristykawai.github.io\assets\Non_ENG_SA.png)
+
+#### WA
+
+![Non_ENG_WA](F:\Wai\kristykawai.github.io\assets\Non_ENG_WA.png)
+
+#### Reference
+
+Australian Bureau of Statistics 2016, _2016 Census QuickStats_, viewed 5 August 2019,<<https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/CED137?opendocument#cultural>>.
+Australian Electoral Comission 2019, _Federal electoral boundaries_, viewed 5 August 2019,<<https://www.aec.gov.au/Electorates/gis/index.htm>>.
+
+_It is a voluntary work for Democracy in Colour._
+
+## 2. Remote Sensing analysis (Python)
 
 ### Case of Eucalyptus camaldulensis in Riverland Ramsar Wetland, South Australia
 
@@ -70,7 +99,7 @@ seaborn.set_style("dark")
 
 _It is an independent research project (coursework) supervised by Prof. Albert Van Dijk in Advanced Remote Sensing and GIS (ENVS6319) in 2018._
 
-## 2. Land use suitability assessment (ArcGIS)
+## 3. Land use suitability assessment (ArcGIS)
 
 ### A Small Cluster Residential Development Proposal in Kowen
 
@@ -90,7 +119,7 @@ _It is an independent research project (coursework) supervised by Prof. Albert V
 
 _It is a coursework assignment conducted in GIS and Spatial Analysis (ENVS6015) in 2017._
 
-## 3. Quantitative research (STATA)
+## 4. Quantitative research (STATA)
 
 ### Do real GDP per capita, and CO2 emissions from manufacturing industries and construction predict energy consumption per capita?
 
