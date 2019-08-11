@@ -68,3 +68,5 @@ After screening out suspect questionnaires with straight line answers, 172 quest
 
 _It is an honour research project supervised by Dr. Bai Xue at the Hong Kong Polytechnic University in 2015._
 
+[Spatial Analysis](./index.md)
+
