@@ -24,9 +24,9 @@ The map shows the percentage of  households where a non English language is spok
 
 #### Reference
 
-[Australian Bureau of Statistics 2016, _2016 Census QuickStats_, viewed 5 August 2019.](https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/CED137?opendocument#cultural)
+* [Australian Bureau of Statistics 2016, _2016 Census QuickStats_, viewed 5 August 2019.](https://quickstats.censusdata.abs.gov.au/census_services/getproduct/census/2016/quickstat/CED137?opendocument#cultural)
 
-[Australian Electoral Commission 2019, _Federal electoral boundaries_, viewed 5 August 2019.](<https://www.aec.gov.au/Electorates/gis/index.htm>)
+- [Australian Electoral Commission 2019, _Federal electoral boundaries_, viewed 5 August 2019.](<https://www.aec.gov.au/Electorates/gis/index.htm>)
 
 _It is a voluntary work for Democracy in Colour._
 
